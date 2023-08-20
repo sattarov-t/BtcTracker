@@ -1,4 +1,7 @@
 # BtcTracker
+
+Чтобы пользоваться приложением - используйте свой API.
+
 <p align="left"> 
 <a href="https://swift.org">
 <img src="https://img.shields.io/badge/Swift-5.7-orange" alt="Swift Version 5.7" /></a>
